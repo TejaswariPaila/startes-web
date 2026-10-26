@@ -4,6 +4,8 @@ This is the basic project creating to demonistrate the Git and github.
 
 ##Introduction
 
+adding somemore text for rebasing example.
+
 ##Deployment
 
 This is the basic project creating to demonistrate the Git and github.
