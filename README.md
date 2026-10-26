@@ -15,3 +15,5 @@ Please Use it wisely to get more results.
 ##How to contribute
 
 This is the basic project creating to demonistrate the Git and github.
+
+##COPYRIGHT
