@@ -1,6 +1,6 @@
 #Startes Web project
 
-This is the basic project creating to demonistrate the Git and github.
+new change This is the basic project creating to demonstrate the Git and github.
 
 ##Introduction
 
